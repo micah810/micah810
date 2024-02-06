@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Micah</h1>
-<h3 align="center">A passionate frontend developer from North Carolina</h3>
+<h3 align="center">A passionate front end developer from North Carolina</h3>
 
 - 🔭 I’m currently working on **weatherMap API**
 
