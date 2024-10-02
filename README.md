@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Micah</h1>
 <h3 align="center">A passionate front end developer from North Carolina</h3>
 
-- 🔭 I’m currently working on **weatherMap API**
+- 🌱 I’m currently learning **Ruby on Rails**
 
-- 🌱 I’m currently learning **react and node**
-
-- 🤝 I’m looking for help with **Wedding Wise**
+- 🤝 I’m looking for help with **HAML & SCSS**
 
 - 📫 How to reach me **micahlarson810@gmail.com**
 
